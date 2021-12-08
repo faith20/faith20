@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[처음부터 따라하는 메타버스 게임 만들기 with Roblox](https://projectlion.io/courses/technology/roblox)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faith20&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faith20&count_private=true&show_icons=true&theme=material-palenight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faith20&count_private=true&show_icons=true&theme=material-palenight) -->

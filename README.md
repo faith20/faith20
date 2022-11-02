@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[처음부터 따라하는 메타버스 게임 만들기 with Roblox](https://projectlion.io/courses/technology/roblox)
+[처음부터 따라하는 메타버스 게임 만들기 with Roblox](https://techit.education/courses/technology/roblox)
+
+[로블록스 메타버스 만들기 for Expert](https://techit.education/courses/technology/roblox_metaverse)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 

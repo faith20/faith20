@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 [로블록스 메타버스 만들기 for Expert](https://techit.education/courses/technology/roblox_metaverse)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ## Coding Time & Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=donut&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=donut&custom_title=Languages%20Rank&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faith20&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faith20&count_private=true&show_icons=true&theme=material-palenight) -->

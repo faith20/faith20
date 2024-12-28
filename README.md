@@ -17,14 +17,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[처음부터 따라하는 메타버스 게임 만들기 with Roblox](https://techit.education/courses/technology/roblox)
+<!-- [처음부터 따라하는 메타버스 게임 만들기 with Roblox](https://techit.education/courses/technology/roblox) -->
+[처음부터 따라하는 메타버스 게임 만들기 with Roblox](https://likelion.net/courses/technology/roblox)
 
-[로블록스 메타버스 만들기 for Expert](https://techit.education/courses/technology/roblox_metaverse)
+<!-- [로블록스 메타버스 만들기 for Expert](https://techit.education/courses/technology/roblox_metaverse) -->
+[로블록스 메타버스 만들기 for Expert](https://likelion.net/courses/technology/roblox_metaverse)
 
 <!-- ## Coding Time & Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=donut&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=donut&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=donut&custom_title=Languages%20Rank&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faith20&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faith20&count_private=true&show_icons=true&theme=material-palenight) -->
+
+---
+<div align="center">
+<a href="https://github.com/faith20">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faith20&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=38% />
+</a>
+<a href="https://github.com/faith20">
+  <img src="https://github-readme-stats.vercel.app/api?username=faith20&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF" width=56% />
+</a>
+<a href="https://github.com/faith20">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=faith20&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+</div>
